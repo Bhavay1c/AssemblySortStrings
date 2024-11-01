@@ -1,10 +1,7 @@
 ; Find_Two_Strings.asm
 ;
 ;
-; Author:               Bhavay Garg, Himanshu Shrestha, Mohammed Yagoub
-
-; Student Number(s):    Bhavay Garg-041102440,Himanshu Shrestha-041105548,
-;                         Mohammed Yagoub- 041043160
+; Author:               Bhavay Garg
 ;
 ; Date:       12/04/2024
 ;

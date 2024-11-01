@@ -1,9 +1,6 @@
 ; Swap_Two_Stringss.asm
 ;
-; Author(s):               Bhavay Garg, Himanshu Shrestha, Mohammed Yagoub
-; Student Number(s):    Bhavay Garg-041102440,Himanshu Shrestha-041105548,
-;                         Mohammed Yagoub- 041043160
-;
+; Author(s):               Bhavay Garg
 ; Date:         12/04/2024
 ;
 ; Purpose:     this basically swaps two consecutive strings the first string should be pointed by x
